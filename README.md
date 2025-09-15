@@ -1,5 +1,7 @@
 # skypulse_app
 
+🌤 SkyPulse adalah aplikasi mobile berbasis Flutter untuk memantau cuaca secara real-time. Menyediakan prakiraan cuaca harian, status suhu, kelembapan, serta peringatan kondisi ekstrem dengan tampilan yang sederhana dan modern.
+
 A new Flutter project.
 
 ## Getting Started
